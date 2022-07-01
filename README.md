@@ -1,21 +1,19 @@
-### Hi there 👋 oi oi 
+Olá 👋 meu nome é Cintia Pizzatto
+=================================
 
-Hi 👋 My name is Sheila Araujo!
-=====================================
+Desenvolvedora Front-End 
+------------------------
 
-Full Stack Developer
---------------------
+Trabalho há anos com gerenciamento de equipes e foco em vendas.
+No percurso, tornei-me professora e me encantei com esta área.
+Vi que ensinar significa "aprender mais"!
+Voltei para a minha área de formação, TI, e, junto com uma equipe habilidosa, estamos desenvolvendo aplicativos.
 
-Working with IT for five years and seeking to conquer the world! Now, developing 😎
+* 🌍  Estou no Rio de Janeiro, Brasil
+* ✉️  Você pode me contatar: [cintiapizzatto@hotmail.com](mailto:cintiapizzatto@hotmail.com) 
+* ⚡  Meu inglês é nível intermediário e sigo estudando para ser fluente
 
-* 🌍  I'm based in São Paulo, Brazil
-* ✉️  You can contact me at [sheilla-araujo@hotmail.com](mailto:sheilla-araujo@hotmail.com)
-* 🧠  Graduated in Ruby on Rails and accepting new challenges!
-* 🤝  I'm open to collaborating on specially challenging projects which are suited to put my skills to the test 
-* ⚡  Fluent Portuguese, Intermediate English and Spanish, but in constant evolution ✌
-* ❤   Tech lover
-
-### Skills
+### Habilidades
 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
@@ -28,15 +26,17 @@ Working with IT for five years and seeking to conquer the world! Now, developing
 </p>
 
 
-### Socials
+### Redes Sociais
 
-<p align="left"> <a href="https://discord.com/users/SheilaAraujo#898" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sheilaraujo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/araujoshe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sheila-araujo-44221b87" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://www.github.com/CintiaPizzatto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/cintia-pizzatto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
 
-<a href="http://www.github.com/sheilaraujo"><img src="https://activity-graph.herokuapp.com/graph?username=sheilaraujo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/CintiaPizzatto"><img src="https://activity-graph.herokuapp.com/graph?username=sheilaraujo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/sheilaraujo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheilaraujo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/CintiaPizzatto" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheilaraujo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
