@@ -32,7 +32,7 @@ Voltei para a minha área de formação, TI, e, junto com uma equipe habilidosa,
 <a href="https://www.github.com/CintiaPizzatto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/cintia-pizzatto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+###
 
 <b>Meu Status do GitHub</b>
 
