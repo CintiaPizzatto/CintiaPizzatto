@@ -7,7 +7,7 @@ Desenvolvedora Front-End
 Trabalho há anos com gerenciamento de equipes e foco em vendas.
 No percurso, tornei-me professora e me encantei com esta área.
 Vi que ensinar significa "aprender mais"!
-Voltei para a minha área de formação, TI, e, junto com uma equipe habilidosa, estamos desenvolvendo aplicativos.
+Voltei para a minha área de formação, TI, e participo de uma equipe de desenvolvimento de aplicativos.
 
 * 🌍  Estou no Rio de Janeiro, Brasil
 * ✉️  Você pode me contatar: [cintiapizzatto@hotmail.com](mailto:cintiapizzatto@hotmail.com) 
