@@ -13,6 +13,10 @@ Voltei para a minha área de formação, TI, e participo de uma equipe de desenv
 * ✉️  Você pode me contatar: [cintiapizzatto@hotmail.com](mailto:cintiapizzatto@hotmail.com) 
 * ⚡  Meu inglês é nível intermediário e sigo estudando para ser fluente
 
+### Cursos em andamento
+- Construção de um API
+- Flutter 3
+
 ### Habilidades
 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
