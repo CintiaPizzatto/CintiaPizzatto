@@ -13,8 +13,11 @@ Voltei para a minha área de formação, TI, e participo de uma equipe de desenv
 * ✉️  Você pode me contatar: [cintiapizzatto@hotmail.com](mailto:cintiapizzatto@hotmail.com) 
 * ⚡  Meu inglês é nível intermediário e sigo estudando para ser fluente
 
-### Cursos em andamento
+### Cursos Livres concluídos - feitos em 2022
 - Construção de um API
+
+### Cursos em andamento
+- Javascript30.com
 - Flutter 3
 
 ### Habilidades
