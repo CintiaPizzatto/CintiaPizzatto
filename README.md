@@ -14,6 +14,7 @@ Voltei para a minha área de formação, TI, e participo de uma equipe de desenv
 * ⚡  Meu inglês é nível intermediário e sigo estudando para ser fluente
 
 ### Cursos Livres concluídos - feitos em 2022
+- Le Wagon - Web Development - #batch 828
 - Construção de um API
 
 ### Cursos em andamento
