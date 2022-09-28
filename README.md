@@ -4,10 +4,9 @@ Olá 👋 meu nome é Cintia Pizzatto
 Desenvolvedora Front-End 
 ------------------------
 
-Trabalho há anos com gerenciamento de equipes e foco em vendas.
-No percurso, tornei-me professora e me encantei com esta área.
-Vi que ensinar significa "aprender mais"!
-Voltei para a minha área de formação, TI, e participo de uma equipe de desenvolvimento de aplicativos.
+Minha paixão pela tecnologia e pelo desenvolvimento de produtos sempre esteve presente durante a minha vida profissional.
+O uso da criatividade nas atividades diárias fez uma grande diferença na minha trajetória em Liderança e Gestão.
+Após uma carreira de sucesso neste campo, estou procurando voltar à área de Ciência da Computação, na qual minha formação se baseia.
 
 * 🌍  Estou no Rio de Janeiro, Brasil
 * ✉️  Você pode me contatar: [cintiapizzatto@hotmail.com](mailto:cintiapizzatto@hotmail.com) 
