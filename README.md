@@ -5,7 +5,9 @@ Desenvolvedora Front-End
 ------------------------
 
 Minha paixão pela tecnologia e pelo desenvolvimento de produtos sempre esteve presente durante a minha vida profissional.
+
 O uso da criatividade nas atividades diárias fez uma grande diferença na minha trajetória em Liderança e Gestão.
+
 Após uma carreira de sucesso neste campo, estou procurando voltar à área de Ciência da Computação, na qual minha formação se baseia.
 
 * 🌍  Estou no Rio de Janeiro, Brasil
