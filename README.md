@@ -16,7 +16,6 @@ Após uma carreira de sucesso neste campo, estou procurando voltar à área de C
 
 ### Cursos Livres concluídos - feitos em 2022
 - Le Wagon - Web Development - #batch 828
-- Construção de um API
 
 ### Cursos em andamento
 - Javascript30.com
