@@ -10,7 +10,7 @@ O uso da criatividade nas atividades diárias fez uma grande diferença na minha
 
 Após uma carreira de sucesso neste campo, estou procurando voltar à área de Ciência da Computação, na qual minha formação se baseia.
 
-* 🌍  Estou no Rio de Janeiro, Brasil
+* 🌍  Estou em Curitiba/PR, Brasil
 * ✉️  Você pode me contatar: [cintiapizzatto@hotmail.com](mailto:cintiapizzatto@hotmail.com) 
 * ⚡  Meu inglês é nível intermediário e sigo estudando para ser fluente
 
@@ -20,7 +20,6 @@ Após uma carreira de sucesso neste campo, estou procurando voltar à área de C
 
 ### Cursos em andamento
 - Javascript30.com
-- Flutter 3
 
 ### Habilidades
 
