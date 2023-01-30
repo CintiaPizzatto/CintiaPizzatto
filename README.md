@@ -1,5 +1,5 @@
-Olá 👋 meu nome é Cintia Pizzatto
-=================================
+Olá, meu nome é Cintia Pizzatto 🌻
+==================================
 
 Desenvolvedora Full-stack 
 -------------------------
