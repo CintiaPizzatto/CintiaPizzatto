@@ -42,3 +42,5 @@ Após uma carreira de sucesso neste campo, estou procurando voltar à área de C
 ###
 
 <a href="https://github.com/CintiaPizzatto" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CintiaPizzatto&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Linguagens mais usadas" /></a>
+
+[Acesse meu site](https://kindly-alphabet-0be.notion.site/Cintia-Pizzatto-Frontend-Development-727a2c420f0642cc9b12b4e4f6ffd180)
