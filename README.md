@@ -1,8 +1,8 @@
 Olá 👋 meu nome é Cintia Pizzatto
 =================================
 
-Desenvolvedora Front-End 
-------------------------
+Desenvolvedora Full-stack 
+-------------------------
 
 Minha paixão pela tecnologia e pelo desenvolvimento de produtos sempre esteve presente durante a minha vida profissional.
 
